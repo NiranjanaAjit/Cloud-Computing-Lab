@@ -1,0 +1,10 @@
+1. Implement Client-Server communication using Socket Programming and TCP as transport layer protocol.
+2. Implement Client-Server communication using Socket Programming and UDP as transport layer protocol.
+3. Implement a multi user chat server using TCP as transport layer protocol.
+4. Implement and simulate algorithm for Distance vector routing protocol.
+8. Install Virtualbox/VMware Workstation with different flavours of linux or windows OS.
+9. Install a compiler in the virtual machine created using virtual box and execute Simple Programs.
+10. Install spark and run simple applications like wordcount.
+11. Install Google App Engine. Create hello world app and other simple web applications using python/java.
+14. Find a procedure to transfer the files from one virtual machine to another virtual machine.
+15. Implement a hello world web application and deploy using docker.
